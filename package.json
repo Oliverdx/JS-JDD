@@ -1,0 +1,24 @@
+{
+  "name": "sessao1",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com JDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliverdx/JS-JDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Vanderlei Oliveira <vanderlei327@gmail.com> (https://oliverdx.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oliverdx/JS-JDD/issues"
+  },
+  "homepage": "https://github.com/Oliverdx/JS-JDD#readme"
+}
